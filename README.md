@@ -3,13 +3,9 @@ _Here to make a difference._
 &nbsp;    
 &nbsp;  
 
-&nbsp;  
-&nbsp;  
-    
-  
 
 # INTEGRATING WITH A SMART ENVIRONMENT
-&nbsp;   
+--------------------------------------------------------------------------------------------------------------------------------  
 ## Problem Statement 
 Infrastructure is getting “smart”, with sensors and Internet of things (IoT) increasingly embedded in the built environment (e.g. Punggol Digital District). How might we leverage a network of smart
 infrastructure in the built environment to make better and more timely sense of emergency
