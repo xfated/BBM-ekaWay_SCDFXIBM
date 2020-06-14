@@ -16,7 +16,7 @@ For instance. Say there was a fire, we could gather information like:
 * **Motion detection**: Are there a lot of people at the area? 
 * **Object detection**: With a distributed network (each with a camera) connected to the cloud, compute is less of an issue and we can leverage on this to even identify the exact location of the emergency before we even reach the scene.
 
-Simply identify and activate the nodes at the scene, and we will be able to obtain a comrpehensive map of the environmental conditions.
+Simply identify and activate the nodes at the scene, and we will be able to obtain a comprehensive map of the environmental conditions.
 
 ## Physical Prototype
 ### Display of our flows on Node-RED
@@ -36,14 +36,28 @@ No lights are on when all settings are set to "off" state
 ![all lights on](images/lights_on.jpeg?raw=true "Lights on Arduino")
 Lights are turned on based on settings given in Node-RED  
 
-## Getting Started
+# Getting Started
+## Set-up
+### Arduino
+1. Open the StandardFirmata.ino file on Arduino IDE. 
+  * StandardFirmata.ino is available in the Arduino IDE by default. (File -> Examples -> Firmata -> StandardFirmata)
+  * Alternatively, it can be accessed via this link: [https://github.com/firmata/arduino#firmata-client-libraries](https://github.com/firmata/arduino#firmata-client-libraries)
+1. Wire up the circuit as shown in the [top-view diagram above](###top-view-of-arduino-board)
+  * We use digital pins 2, 7 and 8 in this example. Each pin is used to control the 'Street Lamps' (LEDs) of a particular 'Lane' (circuit).
+1. Compile and upload the StandardFirmata.ino file into the Arduino
+
 ### Node-RED
-Simply import the [flows.json](flows.json) file found in our repo into your Node-RED application.
+1. Open the Node-RED Editor
+1. Import the flows.json file
+1. Go to the dashboard and control the street lamps!
 
 ## Running Tests
-Connect up the arduino and check if clicking the buttons on Node-RED causes the LEDs to light up.
+Connect up the arduino and check if clicking the buttons on the dashboard in Node-RED causes the LEDs to light up.
 
 ## Live Demo
+<video width="320" height="240" controls>
+  <source src="images/arduino_demo.mp4" type="video/mp4">
+</video>
 
 ## What did we use?
 * Node-RED deployed on IBM cloud.
