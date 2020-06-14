@@ -14,7 +14,7 @@ to trigger early intervention measures, without the need to activate precious em
   
 &nbsp;  
 ## What's the problem?
-Today, there is no strict protocol for drivers to adhere to when they see an emergency vehicle on the road. By the time they hear or see an emergency vehicle on the road, it is likely that it is too late for them to react and the road conditions might not be favourable for them to move out of the way. Additionally, the lack of a well-followed procedure results in the [lack of regard](https://www.straitstimes.com/forum/letters-in-print/motorists-continue-to-impede-emergency-vehicles) towards a sense of urgency when making way for emergency responders.  
+Today, there is no strict protocol for drivers to adhere to when they see an emergency vehicle on the road. At best, the drivers simply slowly move towards the side of lanes once they see an emergency vehicle in their rear view mirror. But too often, by the time they hear or see an emergency vehicle on the road, it is likely that it is too late for them to react and the road conditions might not be favourable for them to move out of the way. Additionally, the lack of a well-followed procedure results in the [lack of regard](https://www.straitstimes.com/forum/letters-in-print/motorists-continue-to-impede-emergency-vehicles) towards a sense of urgency when making way for emergency responders.  
 Let us note one of the [existing protocols](https://www.todayonline.com/singapore/more-emergency-vehicles-allowed-beat-red-lights-faster-response-scdf) for drivers of emergency vehicles whose priority is rushing to a scene of emergency:
 > “When approaching a traffic junction, the driver must also slow down and come to a complete stop so that an assessment of the traffic situation can be made before proceeding further.”  
   
@@ -39,7 +39,7 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 &nbsp;  
 
 
-# [An Overview of our detailed solution](detailed_desc.md)
+# [An Overview of our solution](detailed_desc.md)
 1. Emergency alert raised from a source.
 1. SCDF activated
 1. Software generates the shortest path from SCDF branch to the scene.
