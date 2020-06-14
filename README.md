@@ -40,8 +40,14 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 
 &nbsp;  
 Ideal Situation:  
-![Road cleared for Emergency Vehicle](road_halt_for_ev.jpg?raw=true "Road clears for emergency vehicle")  
-Photo Credits: [reddit](https://www.reddit.com/r/Damnthatsinteresting/comments/99c65h/when_traffic_comes_to_a_complete_stop_in_germany/)
+<p align="center">
+  <img src="road_halt_for_ev.jpg?raw=true" alt="Road clears for emergency vehicle") width=50%/>
+</p>
+<p align="center">  
+Photo Credits: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/99c65h/when_traffic_comes_to_a_complete_stop_in_germany/">Reddit</a>
+</p>  
+
+
 # [An Overview of our solution](detailed_desc.md)
 1. Emergency alert raised from a source.
 1. SCDF activated
