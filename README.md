@@ -54,7 +54,8 @@ Photo Credits: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/9
 </p>  
 
 
-# [An Overview of our solution](detailed_desc.md)
+# An Overview of our solution
+You can find the detailed description [here](detailed_desc.md)
 1. Emergency alert raised from a source.
 1. SCDF activated
 1. Software generates the shortest path from SCDF branch to the scene.
