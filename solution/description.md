@@ -22,9 +22,19 @@ Simply identify and activate the nodes at the scene, and we will be able to obta
 ### Display of our flows on Node-RED
 ![node-red flows](images/node_red_flows.jpeg?raw=true "Node-RED Flows")
 Trigger --> hardware control
-### Manual interface for the prototype
+### Node-RED interface for the prototype
 ![node-red interface](images/light_config_on.jpeg?raw=true "Node-RED Config")
 A manual trigger (automated eventually) sends a signal to the hardware device to change the light display.
+### Top view of Arduino board
+![top-view arduino](images/arduino_top_view.jpeg?raw=true "Arduino Top View")  
+
+### All lights off
+![all lights off](images/lights_off.jpeg?raw=true "Lights off Arduino")  
+No lights are on when all settings are set to "off" state  
+
+### Selective lights on  
+![all lights on](images/lights_on.jpeg?raw=true "Lights on Arduino")
+Lights are turned on based on settings given in Node-RED  
 
 ## Getting Started
 ### Node-RED
