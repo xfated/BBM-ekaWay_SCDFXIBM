@@ -10,7 +10,8 @@ For our solution, we have a specific audience in mind. Drivers. That being said,
 The only way through which drivers know to communicate. Visual cues.
 * Want to change lane --> blinker lights
 * Going to reverse --> back lights
-* Somebody cut you off --> wave your hand angrily and hope they see your displeasure
+* Somebody cut you off --> wave your hand angrily and hope they see your displeasure  
+ 
 We chose to leverage on street lights and traffic lights as first and foremost, it is gives a clear and identifiable signal to the drivers. Different coloured street lights are clearly noticeable as it will definitely be an unusual sight on the road. And it is illegal to run a red light so drivers have to stop for the Emergency Vehicle.  
 &nbsp; 
 ## Key Issues and Solution
