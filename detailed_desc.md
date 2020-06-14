@@ -19,9 +19,10 @@ The problem we identified is the accessibility of emergency vehicles (EVs) on ro
 &nbsp;   
 One **problem of the current solution (sirens)** is that by the time drivers are able to hear and locate the EV, it is already too near them and it would be too late to take prompt action. Thus, we need a method to signal drivers that they should clear a path before the EVs are too near, translating into less obstruction faced en route to their destination. In addition, the sound of sirens give some notion of where the Emergency Vehicle is coming from but far from clear indication.  
 &nbsp;  
-**Our solution** is to utilize street lights along Singapore’s roads by changing their colour to signal that emergency vehicles will be travelling on that road and they should start changing to the side lanes. Additionally, we will take control of the traffic lights en route to the emergency to enable a smoother journey. To put it simply, if the street lights on your road flashes red, an emergency vehicle is coming from behind. Move away.
-&nbsp; 
-&nbsp;  
+**Our solution** is to utilize street lights along Singapore’s roads by changing their colour to signal that emergency vehicles will be travelling on that road and they should start changing to the side lanes. Additionally, we will take control of the traffic lights en route to the emergency to enable a smoother journey.  
+To put it simply, if the street lights on your road flashes red, an emergency vehicle is coming from behind.  
+Move to the side.   
+&nbsp;     
 When an EV is dispatched to a location, the most direct route can be calculated, and lights along the roads to the destination within an estimated 5min travel time will change colour. This change of colour signals to drivers that they should clear the way for oncoming EVs. 
 
 # Strategy and Recommendations
