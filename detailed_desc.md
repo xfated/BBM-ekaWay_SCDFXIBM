@@ -25,6 +25,15 @@ Move to the side.
 &nbsp;     
 When an EV is dispatched to a location, the most direct route can be calculated, and lights along the roads to the destination within an estimated 5min travel time will change colour. This change of colour signals to drivers that they should clear the way for oncoming EVs. 
 
+  
+<p align="center">
+  <img src="streetlight_singapore.jpg?raw=true" alt="streetlights along Singapore's roads") width=50%/>
+</p>  
+<p align="center">  
+Photo Credits: <a href="https://theculturetrip.com/asia/singapore/articles/the-top-10-things-to-do-and-see-in-lavender/">culture trip</a>
+</p>  
+
+
 # Strategy and Recommendations
 A key feature of our solution is that it provides a direct benefit to the SCDF once implemented. It will be able to quicken their response time significantly, especially during peak hours.  
 This quicker response time can translate to many other tangible benefits. 
