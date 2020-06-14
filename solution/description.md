@@ -42,7 +42,7 @@ Lights are turned on based on settings given in Node-RED
 1. Open the StandardFirmata.ino file on Arduino IDE. 
   1. StandardFirmata.ino is available in the Arduino IDE by default. (File -> Examples -> Firmata -> StandardFirmata)
   1. Alternatively, it can be accessed via this link: [https://github.com/firmata/arduino#firmata-client-libraries](https://github.com/firmata/arduino#firmata-client-libraries)
-1. Wire up the circuit as shown in the [top-view diagram above](###top-view-of-arduino-board)
+1. Wire up the circuit as shown in the [top-view diagram above](#top-view-of-arduino-board)
   1. We use digital pins 2, 7 and 8 in this example. Each pin is used to control the 'Street Lamps' (LEDs) of a particular 'Lane' (circuit).
 1. Compile and upload the StandardFirmata.ino file into the Arduino
 
@@ -55,7 +55,7 @@ Lights are turned on based on settings given in Node-RED
 Connect up the arduino and check if clicking the buttons on the dashboard in Node-RED causes the LEDs to light up.
 
 ## Live Demo
-![](images/arduino_demo.mp4)
+[Demo Video](images/arduino_demo.mp4)
 
 ## What did we use?
 * Node-RED deployed on IBM cloud.
