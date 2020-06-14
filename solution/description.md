@@ -6,7 +6,7 @@
 
 ## So what does our prototype say?
 Our prototype aims to visualize the possibility to do remote control of the lights through Node-RED using the IBM cloud. Albeit a manual process at the moment, we hope to show that a simple click of a button (or rather, eventually the trigger of a software) will be able to send signals to the lights to behave accordingly.  
-&ngrp;  
+  
 ## Scalability potential
 Having our Node-RED process connected to the IBM cloud enables us to do any necessary computations without the corresponding hardware constraint at the edge. Additionally, a cloud network facilities information gathering where we we can further scale our solution to include sensors and collect data at the scene of the emergency. 
 &ngrp;  
