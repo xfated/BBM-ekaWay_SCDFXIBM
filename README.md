@@ -21,9 +21,13 @@ Let us note one of the [existing protocols](https://www.todayonline.com/singapor
 We feel that there is an **unnecessary delay** that can be **removed by leveraging on a connected network of Internet-of-Things devices** to **preemptively clear the road for emergencies**.
 
 Local example:
-![Ambulance delayed on road](ambulance_delay.jpg?raw=true "Ambulance Delay")
-Photo Credits: the new paper  
-[Ambulance rushing woman to hospital blocked on PIE: Heartless road hog causes deadly delay](https://www.tnp.sg/news/others/ambulance-rushing-woman-hospital-blocked-pie-heartless-road-hog-causes-deadly-delay)
+<p align="center">
+  <img src="ambulance_delay.jpg?raw=true" alt="Ambulance Delayed" width=60%>
+</p>
+<p align="center">
+Photo Credits: the new paper <br />
+<a href="https://www.tnp.sg/news/others/ambulance-rushing-woman-hospital-blocked-pie-heartless-road-hog-causes-deadly-delay"> Ambulance rushing woman to hospital blocked on PIE: Heartless road hog causes deadly delay] </a>
+</p>  
    
 &nbsp;   
 
@@ -42,7 +46,8 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 Ideal Situation:  
 <p align="center">
   <img src="road_halt_for_ev.jpg?raw=true" alt="Road clears for emergency vehicle") width=50%/>
-</p>
+</p>  
+
 <p align="center">  
 Photo Credits: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/99c65h/when_traffic_comes_to_a_complete_stop_in_germany/">Reddit</a>
 </p>  
