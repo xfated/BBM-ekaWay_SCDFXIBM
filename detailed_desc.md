@@ -82,4 +82,4 @@ An emergency? Trigger the nearby nodes to get information of the situation.
 * How many people are there? 
 * What are the environmental conditions? 
 #### To sum it up,
-The integration of introduction Internet of Things enable us to make **_our roads smarter, our city safer, our first responders more efficient._**
+The integration Internet of Things enable us to make **_our roads smarter, our city safer, our first responders more efficient._**
