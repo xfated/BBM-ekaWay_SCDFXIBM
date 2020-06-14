@@ -6,9 +6,7 @@ Our solution aims to leverage on this interconnected network of devices within S
 ## Key Issues and Solution
 The problem we identified is the accessibility of emergency vehicles (EVs) on roads facing heavy flow, leading to a delayed response time for EVs. Our solution incorporates existing infrastructure in order to compel drivers on the road to give way to approaching EVs.     
 &nbsp;   
-&nbsp;   
-One problem of the current solution (sirens) is that by the time drivers are able to hear and locate the EV, it is already too near them and it would be too late to take prompt action. Thus, we need a method to signal drivers that they should clear a path before the EVs are too near, translating into less obstruction faced en route to their destination.  
-&nbsp;   
+One problem of the current solution (sirens) is that by the time drivers are able to hear and locate the EV, it is already too near them and it would be too late to take prompt action. Thus, we need a method to signal drivers that they should clear a path before the EVs are too near, translating into less obstruction faced en route to their destination.     
 &nbsp;  
 Our solution is to utilize street lights along Singapore’s roads by changing their colour to signal that emergency vehicles will be travelling on the road and they should start changing to the side lanes. Additionally, we will take control of the traffic lights en route to the emergency to enable a smoother journey.   
 &nbsp; 
