@@ -2,6 +2,7 @@
 The problem statement we have chosen is **Integrating with a Smart Environment**.  
 Our solution aims to leverage on this interconnected network of devices within Singapore to enable a more timely response to emergency incidents. We believe that minimal delay and early intervention is key to prevent potential escalation of the emergency which can result in significantly greater damage to both infrastructure and human life. Additionally, minimizing  any potential obstacles on the road enable emergency vehicles a safer environment as the drivers will now be more aware of their presence.
 &nbsp;  
+
 ## Key Issues and Solution
 The problem we identified is the accessibility of emergency vehicles (EVs) on roads facing heavy flow, leading to a delayed response time for EVs. Our solution incorporates existing infrastructure in order to compel drivers on the road to give way to approaching EVs.
 &nbsp;   
@@ -24,7 +25,42 @@ Alternatively, our solution provides a safer work environment for these emergenc
 
 &nbsp; 
 In order to realize our solution, the Node-RED on the IBM Cloud platform is an excellent choice to control and manage our devices. A cloud environment also makes possible greater edge computing capabilities without the need for corresponding hardware at the street lights and traffic lights.
-In our humble prototype, we demonstrate the utilization of node-red to send signals to "street lights" to alter their behaviour.
+In our [humble prototype](solution/description.md), we demonstrate the utilization of node-red to send signals to "street lights" to alter their behaviour.
 
-# Implementation and Plan of Action
+# Project Roadmap
+This details the various steps to be taken from the development of software infrastructure to deployment. It is a step by step process to enable each functionality before combining it into our final solution.
+1. Develop capability to control lights via cloud. 
+1. Develop software to predict and anticipate the best route, and detect all the relevant lights along the route
+1. Integrate location of Emergency Vehicle for real time update of best route and relevant lights. (might change route based on driver)
+1. Test sync of information to send real time commands to IoT devices.
+1. Pilot in a built environment
 
+&nbsp;  
+&nbsp; 
+
+# Implementation
+## Plan of action
+1. Develop and test solution
+1. Start deployment and pilot on existing built environments.
+1. After successful pilot, expand implementation as Singapore moves towards a smart nation.
+
+## Challenges
+1. There is a lot of resources required, software and hardware development and deployment, before the solution can reach a level feasible for tangible.
+1. The public needs to be educated on the significance of these light control changes and cooperate with the signals.
+1. There needs to be public acceptance that the movement of Emergency Vehicles might delay their travel time.
+
+&nbsp;  
+&nbsp; 
+
+# Conclusion
+> Time is of the essence
+We hope to shorten response time and get the responders to where they need to be, quickly and safely.  
+There is much existing infrastructure currently available for us to tap upon. In this case, the rows and rows of streetlights that serve no other purpose than lighting our roads at night.  
+The only thing stopping our emergency responders from action is the time it takes to get to the scene, and delays on the road is one thing that we can definitely minimize. 
+This first step however, could be that small push to bring about a large distributed information network that the SCDF can rely on to gather information and prepare for beforehand.  
+An emergency? Trigger the nearby nodes to get information of the situation. 
+* Where exactly is the incident? 
+* How many people are there? 
+* What are the environmental conditions? 
+#### To sum it up,
+The integration of introduction Internet of Things enable us to make **_our roads smarter, our city safer, our first responders more efficient._**
