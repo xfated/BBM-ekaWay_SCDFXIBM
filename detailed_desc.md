@@ -20,6 +20,7 @@ This quicker response time can translate to many other tangible benefits.
 * Minimal damage to infrastructure and human life. The earlier the responders reach, the quicker they can deal with any situation, the faster it can be resolved.   
 &nbsp;  
 &nbsp;   
+
 Alternatively, our solution provides a safer work environment for these emergency responders. 
 * On the road, traffic lights are changed in their favour so no more running of red lights.
 * Drivers are alerted of the incoming presence of emergency vehicles. No more unwary changing of lanes.
