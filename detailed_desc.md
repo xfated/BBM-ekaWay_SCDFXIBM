@@ -25,8 +25,6 @@ To put it simply, if the street lights on your road flashes red, an emergency ve
 &nbsp;     
 When an EV is dispatched to a location, the most direct route can be calculated, and lights along the roads to the destination within an estimated 5min travel time will change colour. This change of colour signals to drivers that they should clear the way for oncoming EVs. 
 
- 
-
 
 # Strategy and Recommendations
 A key feature of our solution is that it provides a direct benefit to the SCDF once implemented. It will be able to quicken their response time significantly, especially during peak hours.  
@@ -66,9 +64,11 @@ This details the various steps to be taken from the development of software infr
 1. After successful pilot, expand implementation as Singapore moves towards a smart nation.
 
 ## Challenges
-1. There is a lot of resources required, software and hardware development and deployment, before the solution can reach a level feasible for tangible.
-1. The public needs to be educated on the significance of these light control changes and cooperate with the signals.
-1. There needs to be public acceptance that the movement of Emergency Vehicles might delay their travel time.
+1. There is a lot of resources required, software and hardware development and deployment, before the solution can reach a level feasible for tangible results
+1. Requires widespread implementation of Internet of Things (IoT) devices.
+    1. Can be worked around by systematically installing IoT capabilities on street lights whenever they are due for maintenance.
+1. Requires drivers to be educated on the significance of street lights changing colours.  
+1. Requires long-term education in civic-mindedness and road signals, which can be incorporated into the Theory Tests in driving schools so that future generations of drivers will be more aware.
 
 &nbsp;  
 &nbsp; 
