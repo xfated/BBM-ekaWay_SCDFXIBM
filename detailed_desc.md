@@ -17,9 +17,9 @@ When an EV is dispatched to a location, the most direct route can be calculated,
 A key feature of our solution is that it provides a direct benefit to the SCDF once implemented. It will be able to quicken their response time significantly, especially during peak hours.  
 This quicker response time can translate to many other tangible benefits. 
 * Earlier intervention enables the situation to be better controlled and can save precious resources which might have been required to deal with a more extreme case.  
-* Minimal damage to infrastructure and human life. The earlier the responders reach, the quicker they can deal with any situation, the faster it can be resolved.
+* Minimal damage to infrastructure and human life. The earlier the responders reach, the quicker they can deal with any situation, the faster it can be resolved.   
 &nbsp;  
-&nbsp;  
+&nbsp;   
 Alternatively, our solution provides a safer work environment for these emergency responders. 
 * On the road, traffic lights are changed in their favour so no more running of red lights.
 * Drivers are alerted of the incoming presence of emergency vehicles. No more unwary changing of lanes.
