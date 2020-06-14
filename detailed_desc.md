@@ -53,7 +53,7 @@ This details the various steps to be taken from the development of software infr
 &nbsp; 
 
 # Conclusion
-> Time is of the essence
+> Time is of the essence  
 We hope to shorten response time and get the responders to where they need to be, quickly and safely.  
 There is much existing infrastructure currently available for us to tap upon. In this case, the rows and rows of streetlights that serve no other purpose than lighting our roads at night.  
 The only thing stopping our emergency responders from action is the time it takes to get to the scene, and delays on the road is one thing that we can definitely minimize. 
