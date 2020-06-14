@@ -19,7 +19,7 @@ For instance. Say there was a fire, we could gather information like:
 ### Display of our flows on Node-RED
 ![node-red flows](images/node_red_flows.jpeg?raw=true "Node-RED Flows")
 Trigger --> hardware control
-
+### Manual interface for the prototype
 ![node-red interface](images/light_config_on.jpeg?raw=true "Node-RED Config")
 A manual trigger (automated eventually) sends a signal to the hardware device to change the light display.
 
