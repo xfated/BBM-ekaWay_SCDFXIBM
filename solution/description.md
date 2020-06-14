@@ -7,6 +7,7 @@
 ## So what does our prototype say?
 Our prototype aims to visualize the possibility to do remote control of the lights through Node-RED using the IBM cloud. Albeit a manual process at the moment, we hope to show that a simple click of a button (or rather, eventually the trigger of a software) will be able to send signals to the lights to behave accordingly.  
 &ngrp;  
+## Scalability potential
 Having our Node-RED process connected to the IBM cloud enables us to do any necessary computations without the corresponding hardware constraint at the edge. Additionally, a cloud network facilities information gathering where we we can further scale our solution to include sensors and collect data at the scene of the emergency. 
 &ngrp;  
 For instance. Say there was a fire, we could gather information like:
@@ -14,6 +15,8 @@ For instance. Say there was a fire, we could gather information like:
 * **Is it raining?**: That certainly changes the environment and we should prepare beforehand.
 * **Motion detection**: Are there a lot of people at the area? 
 * **Object detection**: With a distributed network (each with a camera) connected to the cloud, compute is less of an issue and we can leverage on this to even identify the exact location of the emergency before we even reach the scene.
+
+Simply identify and activate the nodes at the scene, and we will be able to obtain a comrpehensive map of the environmental conditions.
 
 ## Physical Prototype
 ### Display of our flows on Node-RED
