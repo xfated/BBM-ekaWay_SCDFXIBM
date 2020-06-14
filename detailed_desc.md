@@ -4,7 +4,7 @@ Our solution aims to leverage on this interconnected network of devices within S
 &nbsp;  
 ## Situational Analysis
 For our solution, we have a specific audience in mind. Drivers. That being said, there is a very limited number of available mediums to send a message due to the dangers of distraction while driving.
-* Sound? They are in an enclosed area, possible with a radio blasting in the back ground. Inefficient and won't be heard until its too late.  
+* Sound? They are in an enclosed area, possibly with a radio blasting in the back ground. Inefficient and won't be heard until its too late.  
 * Digital? They're not supposed to check their phones.     
 ## [Solution?](solution/description.md)   
 The only way through which drivers know to communicate. Visual cues.
