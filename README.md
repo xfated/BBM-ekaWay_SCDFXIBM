@@ -53,4 +53,4 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
  
 
 # Solution Implementation
-_As our desired spans a rather large scale, we have developed a small prototype to illustrate what our ideal solution aims to achieve_ that is detailed [here](/solution)
+_As our desired spans a rather large scale, we have developed a small prototype to illustrate what our ideal solution aims to achieve_ that is detailed [here](/solution).
