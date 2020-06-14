@@ -2,7 +2,17 @@
 The problem statement we have chosen is **Integrating with a Smart Environment**.  
 Our solution aims to leverage on this interconnected network of devices within Singapore to enable a more timely response to emergency incidents. We believe that minimal delay and early intervention is key to prevent potential escalation of the emergency which can result in significantly greater damage to both infrastructure and human life. Additionally, minimizing  any potential obstacles on the road enable emergency vehicles a safer environment as the drivers will now be more aware of their presence.
 &nbsp;  
-
+## Situational Analysis
+For our solution, we have a specific audience in mind. Drivers. That being said, there is a very limited number of available mediums to send a message due to the dangers of distraction while driving.
+* Sound? They are in an enclosed area, possible with a radio blasting in the back ground. Inefficient and won't be heard until its too late.
+* Digital? They're not supposed to check their phones.   
+Solution? 
+The only way through which drivers know communicate. Visual cues.
+* Want to change lane --> blinker lights
+* Going to reverse --> back lights
+* Somebody cut you off --> wave your hand angrily and hope they see your displeasure
+We chose to leverage on street lights and traffic lights as first and foremost, it is gives a clear and identifiable signal to the drivers. Different coloured street lights are clearly noticeable as it will definitely be an unusual sight on the road. And it is illegal to run a red light so drivers have to stop for the Emergency Vehicle.  
+&nbsp; 
 ## Key Issues and Solution
 The problem we identified is the accessibility of emergency vehicles (EVs) on roads facing heavy flow, leading to a delayed response time for EVs. Our solution incorporates existing infrastructure in order to compel drivers on the road to give way to approaching EVs.     
 &nbsp;   
