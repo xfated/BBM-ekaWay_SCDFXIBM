@@ -22,8 +22,7 @@ We feel that there is an **unnecessary delay** that can be **removed by leveragi
   
    
 &nbsp;   
-&nbsp;   
-&nbsp;  
+
    
 ## Our solution.
 #### how?
@@ -36,8 +35,6 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 * Emergency vehicle drivers can better focus on getting to the destination when the roads are clear and traffic conditions all in their favour.
 
 &nbsp;  
-&nbsp;  
-
 
 # [An Overview of our solution](detailed_desc.md)
 1. Emergency alert raised from a source.
@@ -49,8 +46,7 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 1. After the Emergency Vehicle passes the location, release control of the lights.
 
 &nbsp;  
-&nbsp;  
- 
+
 
 # Solution Implementation
 _As our desired spans a rather large scale, we have developed a small prototype to illustrate what our ideal solution aims to achieve_ that is detailed [here](/solution).
