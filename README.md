@@ -50,16 +50,7 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 
 &nbsp;  
 &nbsp;  
-
-# Project Roadmap
-1. Develop capability to control lights via cloud.
-1. Develop software to predict and anticipate the best route, and detect all the relevant lights along the route
-1. Integrate location of Emergency Vehicle for real time update of best route and relevant lights. (might change route based on driver)
-1. Test sync of information to send real time commands to IoT devices.
-1. Pilot in a built environment
-
-&nbsp;  
-&nbsp;  
+ 
 
 # Solution Implementation
 _As our desired spans a rather large scale, we have developed a small prototype to illustrate what our ideal solution aims to achieve_ that is detailed [here](/solution)
