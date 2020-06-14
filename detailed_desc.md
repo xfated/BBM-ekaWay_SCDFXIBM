@@ -21,17 +21,11 @@ One **problem of the current solution (sirens)** is that by the time drivers are
 &nbsp;  
 **Our solution** is to utilize street lights along Singapore’s roads by changing their colour to signal that emergency vehicles will be travelling on that road and they should start changing to the side lanes. Additionally, we will take control of the traffic lights en route to the emergency to enable a smoother journey.  
 To put it simply, if the street lights on your road flashes red, an emergency vehicle is coming from behind.  
-Move to the side.   
+**Move to the side.**   
 &nbsp;     
 When an EV is dispatched to a location, the most direct route can be calculated, and lights along the roads to the destination within an estimated 5min travel time will change colour. This change of colour signals to drivers that they should clear the way for oncoming EVs. 
 
-  
-<p align="center">
-  <img src="streetlight_singapore.jpg?raw=true" alt="streetlights along Singapore's roads") width=50%/>
-</p>  
-<p align="center">  
-Photo Credits: <a href="https://theculturetrip.com/asia/singapore/articles/the-top-10-things-to-do-and-see-in-lavender/">culture trip</a>
-</p>  
+ 
 
 
 # Strategy and Recommendations
