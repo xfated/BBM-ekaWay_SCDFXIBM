@@ -39,8 +39,8 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 * Emergency vehicle drivers can better focus on getting to the destination when the roads are clear and traffic conditions all in their favour.
 
 &nbsp;  
-Ideal Situation:
-![Road cleared for Emergency Vehicle](road_halt_for_ev.jpg?raw=true "Road clears for emergency vehicle")
+Ideal Situation:  
+![Road cleared for Emergency Vehicle](road_halt_for_ev.jpg?raw=true "Road clears for emergency vehicle")  
 Photo Credits: [reddit](https://www.reddit.com/r/Damnthatsinteresting/comments/99c65h/when_traffic_comes_to_a_complete_stop_in_germany/)
 # [An Overview of our solution](detailed_desc.md)
 1. Emergency alert raised from a source.
