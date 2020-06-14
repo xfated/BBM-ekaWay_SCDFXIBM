@@ -26,7 +26,7 @@ Local example:
 </p>
 <p align="center">
 Photo Credits: the new paper <br />
-<a href="https://www.tnp.sg/news/others/ambulance-rushing-woman-hospital-blocked-pie-heartless-road-hog-causes-deadly-delay"> Ambulance rushing woman to hospital blocked on PIE: Heartless road hog causes deadly delay] </a>
+<a href="https://www.tnp.sg/news/others/ambulance-rushing-woman-hospital-blocked-pie-heartless-road-hog-causes-deadly-delay"> Ambulance rushing woman to hospital blocked on PIE: Heartless road hog causes deadly delay </a>
 </p>  
    
 &nbsp;   
