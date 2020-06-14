@@ -1,4 +1,4 @@
-# BBM_ekaWaySCDFXIBM
+# BBM  
 _Here to make a difference._  
 &nbsp;    
 &nbsp;  
@@ -62,4 +62,4 @@ Our solution aims to **notify drivers in advance** and **make the journey smooth
 &nbsp;  
 
 # Solution Implementation
-_As our desired spans a rather large scale, we have developed a small prototype to illustrate what our ideal solution aims to achieve_  
+_As our desired spans a rather large scale, we have developed a small prototype to illustrate what our ideal solution aims to achieve_ that is detailed [here](/solution)
