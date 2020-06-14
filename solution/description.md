@@ -10,10 +10,10 @@ Our prototype aims to visualize the possibility to do remote control of the ligh
 Having our Node-RED process connected to the IBM cloud enables us to do any necessary computations without the corresponding hardware constraint at the edge. Additionally, a cloud network facilities information gathering where we we can further scale our solution to include sensors and collect data at the scene of the emergency. 
 &ngrp;  
 For instance. Say there was a fire, we could gather information like:
-* Noise levels: Are there many people screaming? That could indicate the severity of the situation.
-* Is it raining?: That certainly changes the environment and we should prepare beforehand.
-* Motion detection: Are there a lot of people at the area? 
-* Object detection: With a distributed network (each with a camera) connected to the cloud, compute is less of an issue and we can leverage on this to even identify the exact location of the emergency before we even reach the scene.
+* **Noise levels**: Are there many people screaming? That could indicate the severity of the situation.
+* **Is it raining?**: That certainly changes the environment and we should prepare beforehand.
+* **Motion detection**: Are there a lot of people at the area? 
+* **Object detection**: With a distributed network (each with a camera) connected to the cloud, compute is less of an issue and we can leverage on this to even identify the exact location of the emergency before we even reach the scene.
 
 ## Physical Prototype
 ### Display of our flows on Node-RED
