@@ -7,7 +7,7 @@ For our solution, we have a specific audience in mind. Drivers. That being said,
 * Sound? They are in an enclosed area, possible with a radio blasting in the back ground. Inefficient and won't be heard until its too late.  
 * Digital? They're not supposed to check their phones.     
 ## Solution?   
-The only way through which drivers know communicate. Visual cues.
+The only way through which drivers know to communicate. Visual cues.
 * Want to change lane --> blinker lights
 * Going to reverse --> back lights
 * Somebody cut you off --> wave your hand angrily and hope they see your displeasure
